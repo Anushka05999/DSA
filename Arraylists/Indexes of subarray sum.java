@@ -1,4 +1,5 @@
 /*Input: arr[] = [1, 2, 3, 7, 5], target = 12
+Link-https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1
 Output: [2, 4]
 Explanation: The sum of elements from 2nd to 4th position is 12.*/
 
