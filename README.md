@@ -1,2 +1,2 @@
-This repository contains my solutions to Data Structures and Algorithms (DSA) problems that I’m practicing from GeeksforGeeks (GFG).
+This repository contains my solutions to Data Structures and Algorithms (DSA) problems that I’m practicing from GeeksforGeeks (GFG) and leetcode.
 I’m uploading my progress here to track consistency and improve problem-solving skills.
