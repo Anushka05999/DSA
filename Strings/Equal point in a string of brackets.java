@@ -1,4 +1,5 @@
 /*
+Link-https://www.geeksforgeeks.org/problems/find-equal-point-in-string-of-brackets2542/1?page=1&sortBy=submissions
 Equal point in a string of brackets
 Input: str = "(())))("
 Output: 4
